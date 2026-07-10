@@ -1,6 +1,6 @@
 # YOLOv8-Object-Detection
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbeerAI12/YOLOv8-Object-Detection/blob/main/Vehicle_Person_Detection.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbeerAI12/YOLOv8-Object-Detection-/blob/main/Vehicle_Person_Detection.ipynb)
 
 ## Project Overview
 * **Goal:** Implement real-time object detection using the YOLOv8 architecture.
