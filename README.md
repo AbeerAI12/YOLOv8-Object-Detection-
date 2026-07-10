@@ -1,5 +1,5 @@
 # YOLOv8-Object-Detection
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbeerAI12/YOLOv8-Object-Detection/blob/main/Vehicle_Person_Detection.ipynb)
+https://colab.research.google.com/drive/1qt_jJyu65fGedFCoV_9WPfgLLA8IxYnr
 
 
 ## Project Overview
